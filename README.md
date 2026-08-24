@@ -7,4 +7,4 @@
 
 ## 🔗 Connect with me
 
-[LinkedIn]([SEU_LINKEDIN](https://www.linkedin.com/in/benjamin-camboim/))
+[LinkedIn](https://www.linkedin.com/in/benjamin-camboim/)
