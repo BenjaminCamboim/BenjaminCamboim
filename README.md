@@ -1,10 +1,10 @@
 # Benjamin Camboim
 
-* 💼 Young Apprentice @ Giacomelli Imóveis
-* 🎓 High School Student
-* 💻 Interested in Technology and Programming
-* 📚 Currently learning Python independently
+* 💼 Jovem Aprendiz @ [Giacomelli Imóveis]([LINK_DO_LINKEDIN_DA_EMPRESA](https://www.linkedin.com/company/giacomelliimoveis/))
+* 🎓 Estudante do Ensino Médio
+* 💻 Explorando Tecnologia e TI
+* 📚 Aprendendo Python de forma independente
 
-## 🔗 Connect with me
+## 🔗 Conecte-se comigo
 
 [LinkedIn](https://www.linkedin.com/in/benjamin-camboim/)
